@@ -1,0 +1,33 @@
+﻿<UserControl
+    x:Class="YouTube.Controls.HomePage.HomePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:YouTube.Controls.HomePage"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="600"
+    d:DesignWidth="1200" >
+    
+    <ScrollViewer
+        x:Name="RootScrollViewer"
+        HorizontalScrollMode="Disabled"
+        HorizontalScrollBarVisibility="Disabled"
+        VerticalScrollBarVisibility="Visible" 
+        HorizontalContentAlignment="Left"
+        ZoomMode="Disabled" VerticalContentAlignment="Stretch"
+        >
+        <Grid x:Name="ContentHomeGrid" Margin="0,20,20,0" HorizontalAlignment="Stretch">
+
+            
+            <StackPanel>
+                <local:VariableSizeGridView x:Name="GridPopular" Height="440" Title="Populares no YouTube" ItemClick="_ItemClick" />
+                <local:SimpleGridView x:Name="GridSports" Height="230" Title="Esportes" ItemClick="_ItemClick"/>
+                <local:SimpleGridView x:Name="GridMusic" Height="230" Title="Música" ItemClick="_ItemClick"/>
+                <local:SimpleGridView x:Name="GridGames" Height="230" Title="Jogos" ItemClick="_ItemClick"/>
+                <local:SimpleGridView x:Name="GridMovies" Height="230" Title="Cinema" ItemClick="_ItemClick"/>
+            </StackPanel>
+
+        </Grid>
+    </ScrollViewer>
+</UserControl>

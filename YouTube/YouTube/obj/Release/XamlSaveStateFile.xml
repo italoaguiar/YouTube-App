@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\italo\documents\visual studio 2013\projects\youtube\youtube\obj\release\intermediatexaml\youtube.exe" HashGuid="5fce0ef9-741c-d953-5b76-5bc2a08bd2af" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoft.advertising.winrt.ui.winmd" HashGuid="e2e1868b-6ac9-03b1-ca83-3c4740a6cdfb" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.playerframework.xaml\2.0.0.0\references\commonconfiguration\neutral\microsoft.playerframework.dll" HashGuid="0eb31395-6948-b473-5dc8-741325de74cf" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoftadvertising.winmd" HashGuid="ff7acc79-1a32-fd80-27f3-998d24e2b25e" />
+    <ReferenceAssembly PathName="c:\users\italo\documents\visual studio 2013\projects\youtube\packages\mytoolkit.2.3.14.0\lib\portable-net45+wp8+win8+wpa81\mytoolkit.dll" HashGuid="1f7ffe45-a33a-5ea4-4038-3891a41aa042" />
+    <ReferenceAssembly PathName="c:\users\italo\documents\visual studio 2013\projects\youtube\packages\mytoolkit.extended.2.3.14.0\lib\portable-wpa81+win8\mytoolkit.extended.dll" HashGuid="c4918031-10df-7795-bf52-e0e6459ac37f" />
+    <ReferenceAssembly PathName="c:\users\italo\documents\visual studio 2013\projects\youtube\packages\newtonsoft.json.6.0.5\lib\netcore45\newtonsoft.json.dll" HashGuid="e70f704a-5345-3796-c57b-a99765c2073e" />
+    <ReferenceAssembly PathName="c:\users\italo\documents\visual studio 2013\projects\youtubedatamodel\youtubedatamodel\bin\release\youtubedatamodel.dll" HashGuid="6067e518-9c3f-5eda-76fe-99975f620a94" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

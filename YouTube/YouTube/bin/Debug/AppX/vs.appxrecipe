@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ITALO-PC</Machine>
+    <WindowsUser>ITALO</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fa927b52-6cba-4c63-ae9a-45e56ddf7a90</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>CC41423653F1D4620B7AA2219141FB525C2F2D829889A0F24A6FAFD43759845B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>fa927b52-6cba-4c63-ae9a-45e56ddf7a90_1.0.0.0_neutral__mxt9gt1xga6de</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>fa927b52-6cba-4c63-ae9a-45e56ddf7a90_mxt9gt1xga6de!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>fa927b52-6cba-4c63-ae9a-45e56ddf7a90</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ITALO</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-02T21:47:57.707</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\YouTube.exe">
+      <PackagePath>YouTube.exe</PackagePath>
+      <Modified>2014-12-06T21:50:55.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2014-04-28T20:27:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2014-04-28T20:27:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.PlayerFramework.Xaml\2.0.0.0\References\CommonConfiguration\neutral\Microsoft.PlayerFramework.dll">
+      <PackagePath>Microsoft.PlayerFramework.dll</PackagePath>
+      <Modified>2014-07-27T22:12:58.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\packages\MyToolkit.2.3.14.0\lib\portable-net45+wp8+win8+wpa81\MyToolkit.dll">
+      <PackagePath>MyToolkit.dll</PackagePath>
+      <Modified>2014-10-15T17:32:14.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\packages\MyToolkit.Extended.2.3.14.0\lib\portable-wpa81+win8\MyToolkit.Extended.dll">
+      <PackagePath>MyToolkit.Extended.dll</PackagePath>
+      <Modified>2014-10-15T17:32:18.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\packages\Newtonsoft.Json.6.0.5\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-10-10T13:56:36.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTubeDataModel\YouTubeDataModel\bin\Debug\YouTubeDataModel.dll">
+      <PackagePath>YouTubeDataModel.dll</PackagePath>
+      <Modified>2014-12-06T20:26:11.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2014-04-28T20:27:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.PlayerFramework.Xaml\2.0.0.0\Redist\CommonConfiguration\neutral\Microsoft.PlayerFramework\Themes\Classic.xbf">
+      <PackagePath>Microsoft.PlayerFramework\Themes\Classic.xbf</PackagePath>
+      <Modified>2014-07-27T22:12:58.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.PlayerFramework.Xaml\2.0.0.0\Redist\CommonConfiguration\neutral\Microsoft.PlayerFramework\Themes\Entertainment.xbf">
+      <PackagePath>Microsoft.PlayerFramework\Themes\Entertainment.xbf</PackagePath>
+      <Modified>2014-07-27T22:12:58.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.PlayerFramework.Xaml\2.0.0.0\Redist\CommonConfiguration\neutral\Microsoft.PlayerFramework\Themes\Generic.xbf">
+      <PackagePath>Microsoft.PlayerFramework\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-07-27T22:12:58.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-04-28T20:27:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.PlayerFramework.Xaml\2.0.0.0\Redist\CommonConfiguration\neutral\Microsoft.PlayerFramework\Themes\Phone.xbf">
+      <PackagePath>Microsoft.PlayerFramework\Themes\Phone.xbf</PackagePath>
+      <Modified>2014-07-27T22:12:58.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2014-04-28T20:27:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\mraidApi.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\mraidApi.html</PackagePath>
+      <Modified>2014-04-28T20:27:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2014-04-28T20:30:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\Game-spades-icon.png">
+      <PackagePath>Assets\Game-spades-icon.png</PackagePath>
+      <Modified>2013-11-29T13:38:30.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\Google-logo.png">
+      <PackagePath>Assets\Google-logo.png</PackagePath>
+      <Modified>2013-12-31T00:32:48.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\LiveTileIcon.png">
+      <PackagePath>Assets\LiveTileIcon.png</PackagePath>
+      <Modified>2013-11-29T13:38:30.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-11T14:09:50.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\Movie-Genres-Documentary-icon.png">
+      <PackagePath>Assets\Movie-Genres-Documentary-icon.png</PackagePath>
+      <Modified>2013-11-29T13:38:37.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\Movie-Genres-Fairytale-icon.png">
+      <PackagePath>Assets\Movie-Genres-Fairytale-icon.png</PackagePath>
+      <Modified>2013-11-29T13:38:37.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\Sidebar-Music-icon.png">
+      <PackagePath>Assets\Sidebar-Music-icon.png</PackagePath>
+      <Modified>2013-11-29T13:38:37.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-20T15:16:26.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-20T15:10:31.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-11T14:19:21.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\Soccer-Ball-icon.png">
+      <PackagePath>Assets\Soccer-Ball-icon.png</PackagePath>
+      <Modified>2013-11-29T13:38:37.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-11T14:21:12.273</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-11T14:12:34.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-11T14:11:23.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-11T14:07:23.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\User-icon.png">
+      <PackagePath>Assets\User-icon.png</PackagePath>
+      <Modified>2013-11-29T15:24:50.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2014-10-11T14:02:07.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\youtube_logo.png">
+      <PackagePath>Assets\youtube_logo.png</PackagePath>
+      <Modified>2013-11-29T13:38:37.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\ytitle.png">
+      <PackagePath>Assets\ytitle.png</PackagePath>
+      <Modified>2014-10-11T14:22:02.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\Assets\YTUser.jpg">
+      <PackagePath>Assets\YTUser.jpg</PackagePath>
+      <Modified>2014-10-16T20:00:57.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-15T12:12:02.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2014-10-23T17:09:47.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\Controls\Channel.xbf">
+      <PackagePath>Controls\Channel.xbf</PackagePath>
+      <Modified>2014-10-23T19:15:29.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\Controls\ContentControl.xbf">
+      <PackagePath>Controls\ContentControl.xbf</PackagePath>
+      <Modified>2014-10-27T14:25:21.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\Controls\HomePage\HomePage.xbf">
+      <PackagePath>Controls\HomePage\HomePage.xbf</PackagePath>
+      <Modified>2014-10-15T12:12:02.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\Controls\HomePage\SimpleGridView.xbf">
+      <PackagePath>Controls\HomePage\SimpleGridView.xbf</PackagePath>
+      <Modified>2014-10-15T12:12:02.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\Controls\HomePage\VariableSizeGridView.xbf">
+      <PackagePath>Controls\HomePage\VariableSizeGridView.xbf</PackagePath>
+      <Modified>2014-10-15T12:12:02.795</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\Controls\Login.xbf">
+      <PackagePath>Controls\Login.xbf</PackagePath>
+      <Modified>2014-10-15T12:12:02.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\Controls\Player.xbf">
+      <PackagePath>Controls\Player.xbf</PackagePath>
+      <Modified>2014-12-06T21:50:54.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\Controls\SearchBox.xbf">
+      <PackagePath>Controls\SearchBox.xbf</PackagePath>
+      <Modified>2014-10-15T12:12:02.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\Controls\SearchListControl.xbf">
+      <PackagePath>Controls\SearchListControl.xbf</PackagePath>
+      <Modified>2014-10-15T12:12:02.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\Controls\SendVideos.xbf">
+      <PackagePath>Controls\SendVideos.xbf</PackagePath>
+      <Modified>2014-10-15T12:12:02.797</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\Controls\UserMenu.xbf">
+      <PackagePath>Controls\UserMenu.xbf</PackagePath>
+      <Modified>2014-10-16T18:23:04.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\Controls\ViewVideo.xbf">
+      <PackagePath>Controls\ViewVideo.xbf</PackagePath>
+      <Modified>2014-11-02T22:12:31.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\ExtendedSplash.xbf">
+      <PackagePath>ExtendedSplash.xbf</PackagePath>
+      <Modified>2014-10-15T12:12:02.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-12-06T21:35:52.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\YouTube.xr.xml">
+      <PackagePath>YouTube.xr.xml</PackagePath>
+      <Modified>2014-12-06T21:50:54.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\packages\MyToolkit.Extended.2.3.14.0\lib\portable-wpa81+win8\MyToolkit.Extended\MyToolkit.Extended.xr.xml">
+      <PackagePath>MyToolkit.Extended\MyToolkit.Extended.xr.xml</PackagePath>
+      <Modified>2014-10-15T17:32:18.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\packages\MyToolkit.Extended.2.3.14.0\lib\portable-wpa81+win8\MyToolkit.Extended\Controls\DatePicker.xbf">
+      <PackagePath>MyToolkit.Extended\Controls\DatePicker.xbf</PackagePath>
+      <Modified>2014-10-15T17:32:18.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\packages\MyToolkit.Extended.2.3.14.0\lib\portable-wpa81+win8\MyToolkit.Extended\Controls\TimePicker.xbf">
+      <PackagePath>MyToolkit.Extended\Controls\TimePicker.xbf</PackagePath>
+      <Modified>2014-10-15T17:32:18.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\packages\MyToolkit.Extended.2.3.14.0\lib\portable-wpa81+win8\MyToolkit.Extended\Themes\generic.xbf">
+      <PackagePath>MyToolkit.Extended\Themes\generic.xbf</PackagePath>
+      <Modified>2014-10-15T17:32:18.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\packages\MyToolkit.Extended.2.3.14.0\lib\portable-wpa81+win8\MyToolkit.Extended\UI\Popups\ListPickerBox.xbf">
+      <PackagePath>MyToolkit.Extended\UI\Popups\ListPickerBox.xbf</PackagePath>
+      <Modified>2014-10-15T17:32:18.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-06T21:54:27.588</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

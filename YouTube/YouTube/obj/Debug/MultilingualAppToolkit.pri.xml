@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PriInfo>
+  <PriHeader>
+    <WindowsEnvironment checksum="0" version="1.0" />
+    <AutoMerge>false</AutoMerge>
+  </PriHeader>
+  <QualifierInfo>
+    <Qualifiers>
+      <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="EN" name="Language" />
+      <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+      <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="FR" name="Language" />
+      <Qualifier index="4" scoreAsDefault="0.0" priority="900" value="DE" name="Language" />
+      <Qualifier index="5" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+    </Qualifiers>
+    <QualifierSets>
+      <QualifierSet index="1">
+        <Qualifier index="1" scoreAsDefault="0.0" priority="900" value="EN" name="Language" />
+      </QualifierSet>
+      <QualifierSet index="2">
+        <Qualifier index="2" scoreAsDefault="0.0" priority="900" value="ES" name="Language" />
+      </QualifierSet>
+      <QualifierSet index="3">
+        <Qualifier index="3" scoreAsDefault="0.0" priority="900" value="FR" name="Language" />
+      </QualifierSet>
+      <QualifierSet index="4">
+        <Qualifier index="4" scoreAsDefault="0.0" priority="900" value="DE" name="Language" />
+      </QualifierSet>
+      <QualifierSet index="5">
+        <Qualifier index="5" scoreAsDefault="0.0" priority="900" value="PT" name="Language" />
+      </QualifierSet>
+    </QualifierSets>
+    <Decisions />
+  </QualifierInfo>
+  <ResourceMap name="YouTube" primary="true">
+    <VersionInfo version="1.0" />
+  </ResourceMap>
+</PriInfo>

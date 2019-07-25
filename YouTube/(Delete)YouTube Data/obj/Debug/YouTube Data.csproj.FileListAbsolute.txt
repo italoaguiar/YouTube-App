@@ -1,0 +1,19 @@
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\bin\Debug\YouTube Data.dll
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\bin\Debug\YouTube Data.pdb
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\bin\Debug\YouTube Data.pri
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\bin\Debug\Google.GData.Client.dll
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\bin\Debug\Google.GData.Extensions.dll
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\bin\Debug\Google.GData.YouTube.dll
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\obj\Debug\YouTube Data.dll
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\obj\Debug\YouTube Data.pdb
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\obj\Debug\priconfig.xml
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\obj\Debug\priconfig.xml.intermediate
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\obj\Debug\layout.resfiles
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\obj\Debug\layout.resfiles.intermediate
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\obj\Debug\resources.resfiles
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\obj\Debug\resources.resfiles.intermediate
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\obj\Debug\pri.resfiles
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\obj\Debug\pri.resfiles.intermediate
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\obj\Debug\qualifiers.txt
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\obj\Debug\qualifiers.txt.intermediate
+c:\Users\ITALO\documents\visual studio 2013\Projects\YouTube\YouTube Data\obj\Debug\MultipleQualifiersPerDimensionFound.txt

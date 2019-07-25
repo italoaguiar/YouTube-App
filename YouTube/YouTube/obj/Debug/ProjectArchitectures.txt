@@ -1,0 +1,2 @@
+C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTube\YouTube\YouTube.csproj;neutral
+C:\Users\ITALO\Documents\Visual Studio 2013\Projects\YouTubeDataModel\YouTubeDataModel\YouTubeDataModel.csproj;neutral

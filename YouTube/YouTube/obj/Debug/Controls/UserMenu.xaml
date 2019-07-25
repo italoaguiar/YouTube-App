@@ -1,0 +1,36 @@
+﻿<UserControl
+    x:Class="YouTube.Controls.UserMenu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:YouTube.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="42"
+    d:DesignWidth="100">
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="30"/>
+        </Grid.ColumnDefinitions>
+
+        <Button x:ConnectionId='1' x:Name="LoginButton" HorizontalAlignment="Stretch" Content="Fazer Login" Height="42" Style="{StaticResource BlueButtonStyle}" Canvas.ZIndex="1" Grid.ColumnSpan="2"                          />
+        <TextBlock x:Name="Username" Text="Username" VerticalAlignment="Center" Margin="5,0,50,0" Foreground="#FF7F7F7F" FontSize="14" />
+        <Image x:Name="UserPicture" Width="42" Height="42" HorizontalAlignment="Right" Source="ms-appx:///Assets/User-icon.png"/>
+        <Button Grid.Column="1" Padding="0" Margin="0" BorderThickness="0" Content="▾" FontSize="28" FontFamily="Segoe UI Symbol" Foreground="#FF7F7F7F">
+            <Button.Flyout>
+                <MenuFlyout>
+                    <MenuFlyoutItem Text="Menu Canal"/>
+                    <MenuFlyoutItem Text="Gerenciador de Vídeos"/>
+                    <MenuFlyoutItem Text="Inscrições"/>
+                    <MenuFlyoutItem Text="Configurações do YouTube"/>
+                    <MenuFlyoutSeparator/>
+                    <MenuFlyoutItem x:ConnectionId='2' Text="Sair"                             />
+                </MenuFlyout>
+            </Button.Flyout>
+        </Button> 
+
+    </Grid>
+</UserControl>
+
